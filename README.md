@@ -22,9 +22,9 @@ and the [pre-trained encoder](/Source%20Code%20ipynb%20files/Part%202/part2_shuf
 Run each code cell in the top to bottom order.
 
 ## Dataset links:
-The project datasets are donwloaded (optional) when running the .ipynb notebooks in google collab. 
+The project datasets are downloaded when running the .ipynb notebooks in google collab. 
 
-(Optional) The datasets can be downloaded from the following links and placed inside your project folder. The path should be changed to the location of your datasets.
+(Optional) The datasets can be downloaded from the following links and placed inside your project folder. The path in each file should be changed to the location of your datasets.
 
 **Dataset 1: Colorectal Cancer Classification** 
     [Original Dataset](https://zenodo.org/record/1214456)
