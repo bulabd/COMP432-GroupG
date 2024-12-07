@@ -177,12 +177,8 @@ def test_model(model, test_loader, device):
 #-------------------------------------------------------------------------------
 
 #download the trained weights
-#!gdown 12LQ-GVdlMLDK-xmZSkTrtfgVCnEV2AQt
-#path = 'attempt8.tar'
-
-#alternate trained weights; uncomment for use
-!gdown 1VG6yUF1elECW7lkFN1QXV6VUTtIPCebB
-path = 'attempt9.tar'
+!gdown 12LQ-GVdlMLDK-xmZSkTrtfgVCnEV2AQt
+path = 'attempt8.tar'
 
 dummy_epoch = load_model(model, optimizer, path)
 
