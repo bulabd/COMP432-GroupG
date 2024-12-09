@@ -68,7 +68,7 @@ It is strongly recommended to run the code in google colab since it has been set
  
 Once again, it is strongly recommended to use Google Colab to run the notebooks since it will avoid the hassle of setting up everything properly.
 
-## Instructions on how to train/validate the model
+## Instructions on how to train and validate the model
 Use the [model training notebook](/Source%20Code%20ipynb%20files/Part%201/part1_model_training.ipynb). Run each code cell in the top to bottom order.
 
 ## Instructions on how to run pre-trained model on sample dataset
