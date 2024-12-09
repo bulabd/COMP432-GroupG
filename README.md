@@ -65,7 +65,7 @@ It is strongly recommended to run the code in google colab since it has been set
     - sklearn
     - torch
     - torchvision
-    - gdown to download the necessary datasets from Google Drive
+    - gdown (to download the necessary datasets from Google Drive)
  
 Once again, it is strongly recommended to use Google Colab to run the notebooks since it will avoid the hassle of setting up everything properly.
 
