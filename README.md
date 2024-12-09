@@ -5,6 +5,7 @@
 - [Project Description](#project-description)
     - [Task 1](#task-1)
     - [Task 2](#task-1)
+- [Requirements](#requirements)
 - [Instructions on how to train and validate the model](#instructions-on-how-to-train-and-validate-the-model)
 - [Instructions on how to run pre-trained model on sample dataset](#instructions-on-how-to-run-pre-trained-model-on-sample-dataset)
 - [Dataset Links](#dataset-links)
